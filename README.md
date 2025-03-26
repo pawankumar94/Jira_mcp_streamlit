@@ -18,6 +18,8 @@ The application now features a clean tabbed interface with separate sections for
 2. Create Ticket - Form-based ticket creation
 3. Search Tickets - Advanced search using JQL
 
+![Jira Assistant Demo](jira_server_demo.gif)
+
 ## Prerequisites
 
 - Python 3.8+
